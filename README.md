@@ -49,6 +49,9 @@
 -  The admin can see all users and, if desired, change their roles (delivery man/ admin)
 -  The admin can see all delivery men and view their (total delivered, average review) statistics
 
+  <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
+node js, express js, mongoose</p> <hr>
+
 <h3 align="left">SavorSpot Cafe - A restruarent management site </h3>  <a href="https://savorspot-cafe.web.app/" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe---Server.git" > Server Side Code </a>  <br>
 <h4> Features of the project !</h4>
 
@@ -62,6 +65,9 @@
 -  You can view foods sorted by price & filtered by category.
 -  You can select the desired quantity of food to place an order.
 -  User Registration and Profiles.
+  
+  <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
+node js, express js, mongodb</p> <hr>
 
 <h3 align="left"> BrandShop </h3>  <a href="https://brandshop-ece48.web.app" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/BrandShop--Client.git" > Client Site Code </a>  <br> 
 <h4> Features of the project !</h4>
@@ -73,4 +79,6 @@
 -  You can see the latest discount offers on the home page.
 -  User Registration and Profiles.
 -  You can view the specification of each product.
+
+  <h5> Technology :</h5> <p>React, tailwind css, firebase, html</p>
 
