@@ -55,7 +55,7 @@ Node.js, Express.js, MongoDB, and Mongoose.
 -  The admin can see all delivery men and view their (total delivered, average review) statistics
 
   <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
-node js, express js, mongoose</p> <hr>
+node js, express js, mongoose, JWT</p> <hr>
 
 <h3 align="left">SavorSpot Cafe - A restruarent management site </h3>  <a href="https://savorspot-cafe.web.app/" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe---Server.git" > Server Side Code </a>  <br>
 <h4> Features of the project !</h4>
@@ -72,7 +72,7 @@ node js, express js, mongoose</p> <hr>
 -  User Registration and Profiles.
   
   <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
-node js, express js, mongodb</p> <hr>
+node js, express js, mongodb, Jwt</p> <hr>
 
 <h3 align="left"> BrandShop </h3>  <a href="https://brandshop-ece48.web.app" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/BrandShop--Client.git" > Client Site Code </a>  <br> 
 <h4> Features of the project !</h4>
