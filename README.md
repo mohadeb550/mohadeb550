@@ -1,14 +1,14 @@
-![logo](https://github.com/mohadeb550/mohadeb550/blob/main/Navy%20And%20White%20.png)
+![logo](https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mohadeb Bhowmik</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/81178b47a8598f0c81c4799f2cdd4057.gif" >
+<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohadeb550&label=Profile%20views&color=0e75b6&style=flat" alt="mohadeb550" /> </p>
 
 - I’m currently working on [Rapid-Parcel](https://rapid-parcel.web.app/)
 
-- 🌱 I’m currently learning **React.js, MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **mohadebbhowmik7@gmail.com**
 
