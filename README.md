@@ -1,6 +1,11 @@
 ![logo](https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mohadeb Bhowmik</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<p align="center">I'm a junior front-end developer with a passion for React, proficient in
+HTML, CSS, and JavaScript. Committed to continuous learning and
+staying updated on industry trends, i also have basic knowledge of
+Node.js, Express.js, MongoDB, and Mongoose.
+</p>
 <br>
 <img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/coding.gif" >
 
