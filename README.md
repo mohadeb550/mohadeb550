@@ -1,6 +1,5 @@
-![logo](https://raw.githubusercontent.com/mohadeb550/mohadeb550/main/banner.png)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQHJtfHoPqAH4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729414487948?e=1735171200&v=beta&t=D6hNP4HjJJ49zIvTrPxui346dM9oDNTzl68QFKsmTpM)
 <h3 align="center">Hi 👋, I'm Mohadeb Bhowmik</h1>
-<h3 align="center">A passionate frontend developer</h3>
 <p align="center">I'm a junior front-end developer with a passion for Next Js, Typescript, React, Redux-toolkit in the Frontend and Node, Express, MongoDB, Moongoose in the Backend.
 </p>
 <br>
